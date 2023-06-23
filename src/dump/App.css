@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Poppins:wght@400;500&display=swap");
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+th,
+td {
+  padding: 0.5rem;
+}
+
+th:hover {
+  cursor: pointer;
+  background-color: lightgreen;
+}
+
+h1{
+  font-size: 30px;
+  /* font-weight: "bold"; */
+  margin-bottom: 10px;
+}
